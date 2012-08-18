@@ -1,0 +1,1 @@
+MSSQL does not have command allows to select the recording from the middle of the table. This program demonstrates how this can be done. The program scans the big table and displays the result page.
